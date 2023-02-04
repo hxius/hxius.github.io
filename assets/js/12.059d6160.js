@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{413:function(n,e,t){"use strict";t.r(e);var i={name:"Slider"},l=t(2),s=Object(l.a)(i,(function(){return(0,this._self._c)("div",[this._v("轮播图")])}),[],!1,null,null,null);e.default=s.exports}}]);
